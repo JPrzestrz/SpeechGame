@@ -9,3 +9,9 @@ and makes decision whether move player to the left or right.
 
 Example of the ongoing game: <br>
 ![alt text](https://github.com/JPrzestrz/SpeechGame/blob/main/assets/img1.png?raw=true)
+<br>
+In the right bottom area we can see the "speech recognition" symbol which means that<br>
+we are actually using this type of steering. <br><br>
+The second option is the keyboard steering. User can use arrows on the keyboard to move player left or right. <br>
+Example of the view with "keyboard steering" in the right bottom section:<br>
+![alt text](https://github.com/JPrzestrz/SpeechGame/blob/main/assets/img2.png?raw=true)
